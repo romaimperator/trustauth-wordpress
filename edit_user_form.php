@@ -1,5 +1,5 @@
 <?php
-  require_once 'lib_trustauth.php';
+  require_once 'libtrustauth.php';
 	echo '
 <table class="form-table">
 <tr>
